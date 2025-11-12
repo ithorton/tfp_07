@@ -8,5 +8,8 @@ Key components:
 - **Graphs and Visualizations**: Charts and plots (e.g., generated with Matplotlib or Seaborn) illustrating financial trends, outliers, and forensic insights.
 - **Other Code**: Python scripts for data processing, automation, and utility functions.
 
-# Other notes:
+## Contributors
+Ian Horton - ianhorton06@gmail.com
+
+## Other notes:
 I used an Anaconda virtual environment to load a space to run the Jupyter notebooks
